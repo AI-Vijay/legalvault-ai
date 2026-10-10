@@ -132,7 +132,7 @@ Read `RULES.md` before writing any code, especially if you plan to use AI assist
 |------|--------|
 | Team Lead / Reviewer | Bhavesh Khaple ([@BhaveshKhaple](https://github.com/BhaveshKhaple)) |
 | Developer | Shubham |
-| Developer | Vijay |
+| Developer | Vijay Nagargoje ([@AI-Vijay](https://github.com/AI-Vijay) |
 | Developer | Tejas Bagal |
 
 ## Documentation
