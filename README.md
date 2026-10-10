@@ -82,7 +82,7 @@ legalvault-ai/
 
 ```bash
 # 1. Clone your fork
-git clone git@github.com:<your-username>/legalvault-ai.git
+git clone git@github.com:BhaveshKhaple/legalvault-ai.git
 cd legalvault-ai
 
 # 2. Copy env template and fill values
